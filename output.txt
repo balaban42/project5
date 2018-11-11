@@ -1,0 +1,17 @@
+If a person was driving:
+2.9 hours - in that time a person will get to Barnaul from Novosibirsk.
+3.3 hours - in that time a person will get to Tomsk from Novosibirsk.
+3.3 hours - in that time a person will get to Kemerovo from Novosibirsk.
+4.6 hours - in that time a person will get to Novokuznetsk from Novosibirsk.
+
+If a person was riding a bike:
+11.5 hours - in that time a person will get to Barnaul from Novosibirsk.
+13.2 hours - in that time a person will get to Tomsk from Novosibirsk.
+13.2 hours - in that time a person will get to Kemerovo from Novosibirsk.
+11.5 hours - in that time a person will get to Novokuznetsk from Novosibirsk.
+
+If a person traveled on foot:
+1 day 8.9 hours - in that time a person will get to Barnaul from Novosibirsk.
+1 day 13.9 hours - in that time a person will get to Tomsk from Novosibirsk.
+1 day 13.9 hours - in that time a person will get to Kemerovo from Novosibirsk.
+2 days 4.9 hours - in that time a person will get to Novokuznetsk from Novosibirsk.
