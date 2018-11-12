@@ -113,3 +113,4 @@ with open('input.txt', 'r') as f_in:
         f_out.write('{} days {} hours - in that time a person will get to Novokuznetsk '
                     'from Novosibirsk.'.format(fourth_timeDays, fourth_time_hours))
         f_out.write('\n')
+
