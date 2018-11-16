@@ -1,0 +1,17 @@
+# project5-
+Доработал код с помощью списков и словаря.
+Данный код не для проверки, а просто чтобы был.
+Проверяется все также код в файле "solution.py"
+
+with open('input.txt', 'r') as f_in:
+    with open('output.txt', 'w') as f_out:
+        lst = ['was driving', 'was riding a bike', 'traveled on foot']
+        speed = [80, 20, 7]
+        for i in range(3):
+            car_dict = {'Barnaul': round(230 / speed[i], 1), 'Tomsk': round(265 / speed[i], 1),
+                        'Kemerovo': round(265 / speed[i], 1), 'Novokuznetsk': round(370 / speed[i], 1)}
+            f_out.write('If a person {}:\n'.format(lst[i]))
+            for city in car_dict:
+                f_out.write('{} hours - in that time a person will get to {} '
+                            'from Novosibirsk.\n'.format(car_dict[city], city))
+            f_out.write('\n')
